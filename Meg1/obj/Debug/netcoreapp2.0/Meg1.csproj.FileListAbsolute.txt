@@ -1,0 +1,12 @@
+E:\Uni Project\Meg1\Meg1\bin\Debug\netcoreapp2.0\Meg1.deps.json
+E:\Uni Project\Meg1\Meg1\bin\Debug\netcoreapp2.0\Meg1.runtimeconfig.json
+E:\Uni Project\Meg1\Meg1\bin\Debug\netcoreapp2.0\Meg1.runtimeconfig.dev.json
+E:\Uni Project\Meg1\Meg1\bin\Debug\netcoreapp2.0\Meg1.dll
+E:\Uni Project\Meg1\Meg1\bin\Debug\netcoreapp2.0\Meg1.pdb
+E:\Uni Project\Meg1\Meg1\obj\Debug\netcoreapp2.0\Meg1.csprojResolveAssemblyReference.cache
+E:\Uni Project\Meg1\Meg1\obj\Debug\netcoreapp2.0\Meg1.csproj.CoreCompileInputs.cache
+E:\Uni Project\Meg1\Meg1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\Uni Project\Meg1\Meg1\obj\Debug\netcoreapp2.0\Meg1.AssemblyInfoInputs.cache
+E:\Uni Project\Meg1\Meg1\obj\Debug\netcoreapp2.0\Meg1.AssemblyInfo.cs
+E:\Uni Project\Meg1\Meg1\obj\Debug\netcoreapp2.0\Meg1.dll
+E:\Uni Project\Meg1\Meg1\obj\Debug\netcoreapp2.0\Meg1.pdb
